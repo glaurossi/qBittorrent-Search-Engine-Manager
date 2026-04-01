@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Search — app icon">
+  <rect x="10" y="10" width="236" height="236" rx="44" fill="#0f1419"/>
+  <!-- Magnifying glass only; scales cleanly at small sizes. -->
+  <circle cx="108" cy="108" r="52" fill="none" stroke="#22c55e" stroke-width="14"/>
+  <line x1="148" y1="148" x2="204" y2="204" stroke="#22c55e" stroke-width="14" stroke-linecap="round"/>
+</svg>

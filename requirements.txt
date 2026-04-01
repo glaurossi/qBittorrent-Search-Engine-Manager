@@ -1,0 +1,3 @@
+# Runtime dependency convenience file.
+# Canonical project metadata and dependencies live in pyproject.toml.
+PySide6>=6.6.0
