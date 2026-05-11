@@ -39,9 +39,7 @@ python -m qbt_search_manager
 
 ### To-do
 
-- [ ]  A proper logo
 - [ ]  Validate behaviour on **Linux**.
-- [ ]  Ship **standalone builds** for **macOS**, **Windows**, and **Linux**
 - [ ]  Improve **docs** for weird cases like custom qBittorrent profiles, proxies, SSL/certificate setup on fresh Python installs.
 
 ### Contributions
@@ -54,10 +52,25 @@ Found a bug or have a feature request? [Open an issue](https://github.com/glauro
 <h2 align="left">Star History</h2>
 <p align="center">
   <a href="https://www.star-history.com/#glaurossi/qBittorrent-Search-Engine-Manager">
-    <img src="https://api.star-history.com/svg?repos=glaurossi/qBittorrent-Search-Engine-Manager" alt="Star History Chart" width="800">
+    <img src="https://api.star-history.com/image?repos=glaurossi/qBittorrent-Search-Engine-Manager" alt="Star History Chart" width="800">
   </a>
 </p>
 
 ### License
 
 MIT — see [LICENSE](LICENSE).
+
+
+
+
+## Star History
+
+https://www.star-history.com/?repos=glaurossi%2FqBittorrent-Search-Engine-Manager
+
+https://api.star-history.com/image?repos=glaurossi/qBittorrent-Search-Engine-Manager
+
+
+## Star History
+
+https://api.star-history.com/image?repos=glaurossi/qBittorrent-Search-Engine-Manager
+https://www.star-history.com/?repos=glaurossi%2FqBittorrent-Search-Engine-Manager
