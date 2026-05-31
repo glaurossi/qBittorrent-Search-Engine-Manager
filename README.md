@@ -59,18 +59,3 @@ Found a bug or have a feature request? [Open an issue](https://github.com/glauro
 ### License
 
 MIT — see [LICENSE](LICENSE).
-
-
-
-
-## Star History
-
-https://www.star-history.com/?repos=glaurossi%2FqBittorrent-Search-Engine-Manager
-
-https://api.star-history.com/image?repos=glaurossi/qBittorrent-Search-Engine-Manager
-
-
-## Star History
-
-https://api.star-history.com/image?repos=glaurossi/qBittorrent-Search-Engine-Manager
-https://www.star-history.com/?repos=glaurossi%2FqBittorrent-Search-Engine-Manager
